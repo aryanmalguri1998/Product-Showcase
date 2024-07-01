@@ -1,0 +1,10 @@
+<!-- res/values/styles.xml -->
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.AssignmentIII" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/colorPrimary</item>         <!-- Primary color for app bar, etc. -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item> <!-- Darker variant of primary color -->
+        <item name="colorAccent">@color/colorAccent</item>           <!-- Color accent for buttons, etc. -->
+    </style>
+</resources>
